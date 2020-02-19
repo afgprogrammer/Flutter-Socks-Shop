@@ -6,7 +6,7 @@ This repository is a part of the 100-day design in Flutter.
 
 In this video we use, ListView, PageTransition, BoxShadow, Container, Gradient, LinearGradient and so on in the one-speed video.
 
-[Youtube Video](https://youtu.be/VDB1OHb5SGg)
+[Youtube Video](https://youtu.be/53Z-s-a_ne8)
 
 ## Last Design
 - [UI Design- Day 1](https://github.com/afgprogrammer/flutter-inspiration-app-ui)
